@@ -1,0 +1,1 @@
+Componentes reutilizables compartidos por todos los componentes del proyecto.

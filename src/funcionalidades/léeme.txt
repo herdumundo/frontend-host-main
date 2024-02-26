@@ -1,0 +1,1 @@
+Funcionalidades y características agrupadas, componentes con lógica incluida.

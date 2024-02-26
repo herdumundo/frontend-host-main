@@ -1,0 +1,1 @@
+Plantillas de esqueleto para las páginas.
